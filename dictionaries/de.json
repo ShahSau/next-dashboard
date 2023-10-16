@@ -1,0 +1,33 @@
+{
+    "navigation": {
+      "home": "Startseite",
+      "about": "Über"
+    },
+    "sideBar":{
+      "Dashboard":"Armaturenbrett",
+      "Manage":"Team leiten",
+      "Contact":"Kontaktinformationen",
+      "Profile":"Profil",
+      "Orders":"Aufträge",
+      "Customers":"Kunden",
+      "Kanban":"Kanban",
+      "Calender":"Kalender",
+      "Bar":"Balkendiagramm",
+      "Line":"Liniendiagramm",
+      "Pie":"Kreisdiagramm",
+      "Geography":"Geographie",
+      "Radical":"RadikalBalkendiagramm",
+      "Chart":"Diagramm",
+      "Settings":"die Einstellungen"
+    },
+    "page": {
+      "home": {
+        "title": "Willkommen bei NextJs i18n",
+        "description": "Internationalisierung im NextJs 13 App-Router"
+      },
+      "about": {
+        "title": "Über uns",
+        "description": "Dies ist die About-Seite"
+      }
+    }
+  }
